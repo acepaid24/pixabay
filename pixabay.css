@@ -1,0 +1,42 @@
+ol {
+    list-style:  none;
+    text-decoration-color: antiquewhite;
+    text-align: end;
+    padding-left: 600px;
+    text-decoration: none;
+    
+
+}
+a {
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+.line {
+    color: white;
+    display: flex;
+    
+}
+.middle {
+    color: white;
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.b{
+font-size: xx-large;
+
+}
+input {
+    height: 50px;
+    width: 800px;
+    border-radius: 30px;
+}
+.section {
+    color: white;
+    background-image: url(mountains-640.jpg);
+    background-size: 3000px;
+    background-repeat: no-repeat;
+    height: 500px;
+}
